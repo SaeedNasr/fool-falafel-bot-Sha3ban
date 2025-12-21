@@ -1,0 +1,1 @@
+SELECT * FROM fool_falafel_db.food_items;
