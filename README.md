@@ -11,6 +11,8 @@ Order Tracking: Generates unique Order IDs and provides real-time status updates
 
 Menu & Info Inquiry: Provides up-to-date pricing and restaurant opening hours.
 
+![Project Screenshot](project.png)
+
 ## Tech Stack
 
 NLP/NLU: Google Dialogflow (ES)
